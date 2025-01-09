@@ -1,0 +1,91 @@
+2025-01-07 03:55:54 - ERROR: Cannot find input file: ips_list.txt
+2025-01-07 03:58:09 - ERROR: Cannot find input file: ips_list.txt
+2025-01-07 03:58:44 - ERROR: Cannot find input file: ./ips_list.txt
+2025-01-07 04:00:34 - ERROR: Cannot find input file: ips_list.txt
+2025-01-07 04:00:59 - ERROR: Cannot find input file: ./ips_list.txt
+2025-01-07 04:01:28 - ERROR: Cannot find input file: /home/gbedu/bash-script-gig/ips_list.txt
+2025-01-07 04:02:31 - Starting IP cleanup script
+2025-01-07 04:02:31 - Reading entry: Block-192.168.0.1
+2025-01-07 04:02:31 - Attempting to release IP: 192.168.0.1
+python3: can't open file '/home/gbedu/bash-script-gig/forti.py': [Errno 2] No such file or directory
+2025-01-07 04:02:31 - Failed: Could not release IP 192.168.0.1
+2025-01-07 04:02:31 - Reading entry: Block-192.168.0.2
+2025-01-07 04:02:31 - Attempting to release IP: 192.168.0.2
+python3: can't open file '/home/gbedu/bash-script-gig/forti.py': [Errno 2] No such file or directory
+2025-01-07 04:02:31 - Failed: Could not release IP 192.168.0.2
+2025-01-07 04:02:31 - Reading entry: Block-192.168.0.3
+2025-01-07 04:02:31 - Attempting to release IP: 192.168.0.3
+python3: can't open file '/home/gbedu/bash-script-gig/forti.py': [Errno 2] No such file or directory
+2025-01-07 04:02:31 - Failed: Could not release IP 192.168.0.3
+2025-01-07 04:02:31 - Reading entry: Block-192.168.0.4
+2025-01-07 04:02:31 - Attempting to release IP: 192.168.0.4
+python3: can't open file '/home/gbedu/bash-script-gig/forti.py': [Errno 2] No such file or directory
+2025-01-07 04:02:31 - Failed: Could not release IP 192.168.0.4
+2025-01-07 04:02:31 - Reading entry: Block-192.168.0.5
+2025-01-07 04:02:31 - Attempting to release IP: 192.168.0.5
+python3: can't open file '/home/gbedu/bash-script-gig/forti.py': [Errno 2] No such file or directory
+2025-01-07 04:02:31 - Failed: Could not release IP 192.168.0.5
+2025-01-07 04:02:31 - Cleanup completed
+2025-01-07 10:56:04 [INFO] - Starting IP cleanup script
+2025-01-07 10:56:04 [INFO] - Reading entry: Block-192.168.0.1
+2025-01-07 10:56:04 [INFO] - Attempting to release IP: 192.168.0.1
+python3: can't open file '/home/gbedu/bash-script-gig/forti.py': [Errno 2] No such file or directory
+2025-01-07 10:56:04 [ERROR] - Failed: Could not release IP 192.168.0.1
+2025-01-07 10:56:04 [INFO] - Script terminated. Exiting.
+2025-01-07 10:58:48 [INFO] - Starting IP cleanup script
+2025-01-07 10:58:48 [INFO] - Reading entry: Block-192.168.0.1
+2025-01-07 10:58:48 [INFO] - TEST MODE: Would release IP 192.168.0.1 (no action taken)
+2025-01-07 10:58:48 [INFO] - Reading entry: Block-192.168.0.2
+2025-01-07 10:58:48 [INFO] - TEST MODE: Would release IP 192.168.0.2 (no action taken)
+2025-01-07 10:58:48 [INFO] - Reading entry: Block-192.168.0.3
+2025-01-07 10:58:48 [INFO] - TEST MODE: Would release IP 192.168.0.3 (no action taken)
+2025-01-07 10:58:48 [INFO] - Reading entry: Block-192.168.0.4
+2025-01-07 10:58:48 [INFO] - TEST MODE: Would release IP 192.168.0.4 (no action taken)
+2025-01-07 10:58:48 [INFO] - Reading entry: Block-192.168.0.5
+2025-01-07 10:58:48 [INFO] - TEST MODE: Would release IP 192.168.0.5 (no action taken)
+2025-01-07 10:58:48 [INFO] - Cleanup completed
+2025-01-07 10:58:48 [INFO] - Script terminated. Exiting.
+2025-01-07 10:59:38 [INFO] - Starting IP cleanup script
+2025-01-07 10:59:38 [INFO] - Reading entry: Block-192.168.0.1
+2025-01-07 10:59:38 [INFO] - Attempting to release IP: 192.168.0.1
+python3: can't open file '/home/gbedu/bash-script-gig/forti.py': [Errno 2] No such file or directory
+2025-01-07 10:59:38 [ERROR] - Failed: Could not release IP 192.168.0.1
+2025-01-07 10:59:38 [INFO] - Script terminated. Exiting.
+2025-01-07 11:02:18 [INFO] - Starting IP cleanup script
+2025-01-07 11:02:18 [INFO] - Reading entry: Block-192.168.0.1
+2025-01-07 11:02:18 [INFO] - Attempting to release IP: 192.168.0.1
+2025-01-07 11:02:17 - INFO - Connecting to FortiGate host: 123.123.123.123
+2025-01-07 11:02:17 - INFO - Using credentials: apitoken
+2025-01-07 11:02:17 - INFO - Releasing IP 192.168.0.1 from group BlockIP
+2025-01-07 11:02:17 - INFO - Successfully released IP: 192.168.0.1
+2025-01-07 11:02:17 [INFO] - Success: Released IP 192.168.0.1
+2025-01-07 11:02:17 [INFO] - Reading entry: Block-192.168.0.2
+2025-01-07 11:02:17 [INFO] - Attempting to release IP: 192.168.0.2
+2025-01-07 11:02:17 - INFO - Connecting to FortiGate host: 123.123.123.123
+2025-01-07 11:02:17 - INFO - Using credentials: apitoken
+2025-01-07 11:02:17 - INFO - Releasing IP 192.168.0.2 from group BlockIP
+2025-01-07 11:02:17 - INFO - Successfully released IP: 192.168.0.2
+2025-01-07 11:02:17 [INFO] - Success: Released IP 192.168.0.2
+2025-01-07 11:02:17 [INFO] - Reading entry: Block-192.168.0.3
+2025-01-07 11:02:17 [INFO] - Attempting to release IP: 192.168.0.3
+2025-01-07 11:02:17 - INFO - Connecting to FortiGate host: 123.123.123.123
+2025-01-07 11:02:17 - INFO - Using credentials: apitoken
+2025-01-07 11:02:17 - INFO - Releasing IP 192.168.0.3 from group BlockIP
+2025-01-07 11:02:17 - INFO - Successfully released IP: 192.168.0.3
+2025-01-07 11:02:17 [INFO] - Success: Released IP 192.168.0.3
+2025-01-07 11:02:17 [INFO] - Reading entry: Block-192.168.0.4
+2025-01-07 11:02:17 [INFO] - Attempting to release IP: 192.168.0.4
+2025-01-07 11:02:17 - INFO - Connecting to FortiGate host: 123.123.123.123
+2025-01-07 11:02:17 - INFO - Using credentials: apitoken
+2025-01-07 11:02:17 - INFO - Releasing IP 192.168.0.4 from group BlockIP
+2025-01-07 11:02:17 - INFO - Successfully released IP: 192.168.0.4
+2025-01-07 11:02:17 [INFO] - Success: Released IP 192.168.0.4
+2025-01-07 11:02:17 [INFO] - Reading entry: Block-192.168.0.5
+2025-01-07 11:02:17 [INFO] - Attempting to release IP: 192.168.0.5
+2025-01-07 11:02:17 - INFO - Connecting to FortiGate host: 123.123.123.123
+2025-01-07 11:02:17 - INFO - Using credentials: apitoken
+2025-01-07 11:02:17 - INFO - Releasing IP 192.168.0.5 from group BlockIP
+2025-01-07 11:02:17 - INFO - Successfully released IP: 192.168.0.5
+2025-01-07 11:02:17 [INFO] - Success: Released IP 192.168.0.5
+2025-01-07 11:02:17 [INFO] - Cleanup completed
+2025-01-07 11:02:17 [INFO] - Script terminated. Exiting.
