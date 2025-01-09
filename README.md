@@ -34,8 +34,8 @@ This Bash script automates the cleanup of old entries on a FortiGate firewall by
 ## **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git <clone https://github.com/olugbedu/bash-script-fortigate-cleanup.git>
-   cd <bash-script-fortigate-cleanup>
+   git clone https://github.com/olugbedu/bash-script-fortigate-cleanup.git
+   cd bash-script-fortigate-cleanup
    ```
 
 2. Ensure the following files are present:
